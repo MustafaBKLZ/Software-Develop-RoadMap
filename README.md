@@ -3,4 +3,4 @@ Yazılım geliştirme sektöründe yer aldığım ve geliştirdiğim tüm projel
 
 Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 
-* 1 - (https://mustafabukulmez.com/2018/01/20/yazilima-baslamak-mi-istiyorsunuz-gormeniz-lazim/ "Yazılıma Başlamak Mı İstiyorsunuz?")
+* 1 - #Yazılıma Başlamak Mı İstiyorsunuz? [Yazılıma Başlamak Mı İstiyorsunuz?](https://mustafabukulmez.com/2018/01/20/yazilima-baslamak-mi-istiyorsunuz-gormeniz-lazim/ "Yazılıma Başlamak Mı İstiyorsunuz?")
