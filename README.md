@@ -13,7 +13,7 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
   + [Akış Diyagramı Nedir?](https://mustafabukulmez.com/2020/06/20/akis-diyagrami-nedir-akis-diyagrami-sekilleri/ "Akış Diyagramı Nedir?")
   + [Algotirma ve Akış Diyagramı Yazmak](https://mustafabukulmez.com/2020/01/24/algoritma-nedir-algoritma-nasil-yazilir/ "Algotirma ve Akış Diyagramı Yazmak")
 
-+ Yazılım Geliştirme Yaklaşımları - Yazılım Projelerinde;
++ Yazılım Geliştirme Yaklaşımları - **Yazılım Projelerinde**;
   +  ... [KOD Mantığını Kullanmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-1/ "KOD Mantığını Kullanmak")
   +  ... [Basit Düşünmek](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-2/ "Basit Düşünmek")
   +  ... [Az Kod Çok İş](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-3/ "Az Kod Çok İş")
