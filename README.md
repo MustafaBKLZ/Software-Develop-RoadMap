@@ -3,10 +3,10 @@ Yazılım geliştirme sektöründe yer aldığım ve geliştirdiğim tüm projel
 
 Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 
-1.Yazılım, Yazılımcı ve Olmak
-  1.[Yazılıma Başlamak Mı İstiyorsunuz?](https://mustafabukulmez.com/2018/01/20/yazilima-baslamak-mi-istiyorsunuz-gormeniz-lazim/ "Yazılıma Başlamak Mı İstiyorsunuz?")
-  2.[Yazılımcı Kime Denir?](https://mustafabukulmez.com/2022/01/31/yazilimci-kime-denir-c-ve-net-framework-kisaca-nedir/ "Yazılımcı Kime Denir?")
-  3.[Bir Yazılımcı Olmak Zor Mudur?](https://mustafabklmez.medium.com/bir-yaz%C4%B1l%C4%B1mc%C4%B1-olmak-zor-mudur-9b2835edb093 "Bir Yazılımcı Olmak Zor Mudur?")
+1. Yazılım, Yazılımcı ve Olmak
+  1. [Yazılıma Başlamak Mı İstiyorsunuz?](https://mustafabukulmez.com/2018/01/20/yazilima-baslamak-mi-istiyorsunuz-gormeniz-lazim/ "Yazılıma Başlamak Mı İstiyorsunuz?")
+  2. [Yazılımcı Kime Denir?](https://mustafabukulmez.com/2022/01/31/yazilimci-kime-denir-c-ve-net-framework-kisaca-nedir/ "Yazılımcı Kime Denir?")
+  3. [Bir Yazılımcı Olmak Zor Mudur?](https://mustafabklmez.medium.com/bir-yaz%C4%B1l%C4%B1mc%C4%B1-olmak-zor-mudur-9b2835edb093 "Bir Yazılımcı Olmak Zor Mudur?")
 
 2 Yazılıma Hazırlık
   1 [Algoritma Nedir?](https://mustafabukulmez.com/2020/06/20/algoritma-nedir-algoritma-tasarimi-nasil-yapilir/ "Algoritma Nedir?")
