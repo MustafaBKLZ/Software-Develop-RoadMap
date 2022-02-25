@@ -30,4 +30,5 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 Zamanla buraya daha fazla içerik gelecektir.
 
 Bruadaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak isteyip istemeidğinizi ve eğer bu yola girerseniz durmadan devam edebileceğinizi veya edemeyeceğinizi anlayacaksınız. 
+---
 ***Bu içerikler size yazılımcı nasıl olunuru değil, yazılım geliştirmenin neler içerdiğini ve içerebileceğini biraz olsun göstermek amacı gütmektedir.***
