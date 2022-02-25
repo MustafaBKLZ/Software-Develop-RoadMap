@@ -14,4 +14,4 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
   + [Algotirma ve Akış Diyagramı Yazmak](https://mustafabukulmez.com/2020/01/24/algoritma-nedir-algoritma-nasil-yazilir/ "Algotirma ve Akış Diyagramı Yazmak")
 
 + Yazılım Geliştirme Yaklaşımları
-  +  [Yazılım Projelerinde "KOD" Kullanmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-1/ "Yazılım Projelerinde "KOD" Kullanmak")
+  +  [Yazılım Projelerinde -KOD- Kullanmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-1/ "Yazılım Projelerinde -KOD- Kullanmak")
