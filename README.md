@@ -14,10 +14,10 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
   + [Algotirma ve Akış Diyagramı Yazmak](https://mustafabukulmez.com/2020/01/24/algoritma-nedir-algoritma-nasil-yazilir/ "Algotirma ve Akış Diyagramı Yazmak")
 
 + Yazılım Geliştirme Yaklaşımları - Yazılım Projelerinde;
-  +  [KOD Mantığını Kullanmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-1/ "KOD Mantığını Kullanmak")
-  +  [Basit Düşünmek](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-2/ "Basit Düşünmek")
-  +  [Az Kod Çok İş](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-3/ "Az Kod Çok İş")
-  +  [Hızlı Kod Yazmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-4/ "Hızlı Kod Yazmak")
+  +  ...[KOD Mantığını Kullanmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-1/ "KOD Mantığını Kullanmak")
+  +  ...[Basit Düşünmek](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-2/ "Basit Düşünmek")
+  +  ...[Az Kod Çok İş](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-3/ "Az Kod Çok İş")
+  +  ...[Hızlı Kod Yazmak](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-4/ "Hızlı Kod Yazmak")
   +  [Yekilendirme](https://dinamiknetwork.com/bir-yazilim-projesine-baslamak-tavsiyeler-5/ "Yekilendirme")
   +  [İsimlendirme](https://mustafabukulmez.com/2018/03/18/c-sharp-nesne-isimlendirme-mantigi/ "İsimlendirme")
   +  [Modüler Çalışmak](https://mustafabukulmez.com/2018/03/16/c-sharp-moduler-calisma-mantigi/ "Modüler Çalışmak")
