@@ -1,5 +1,5 @@
 # Software Develop RoadMap
-Yazılım geliştirme sektöründe yer aldığım ve geliştirdiğim tüm projeleri düşünüce kendimce çıkardığım Yazılım Geliştirme Yol Haritasını sizlerle paylaşmak istedim. İçeriklerin tamamı bana ait olsada farklı platformlarda yer almaktadır. 
+Yazılım geliştirme sektöründe yer aldığım ve geliştirdiğim tüm projeleri düşünüce kendimce çıkardığım **Yazılım Geliştirme Yol Haritasını** sizlerle paylaşmak istedim. İçeriklerin tamamı bana ait olsada farklı platformlarda yer almaktadır. 
 
 Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 
