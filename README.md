@@ -27,7 +27,7 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
   +  [Yüzük Barkod Okuyucu](https://dinamiknetwork.com/yuzuk-barkod-okuyucu-nedir-ne-isimize-yarar-giyilebilir-teknoloji/ "Yüzük Barkod Okuyucu")
   +  [Copy Paste?](https://mustafabukulmez.com/2018/03/22/programlamada-kopyala-yapistirin-mantigi/ "Copy Paste?")
 
-Zamanla buraya daha fazla içerik gelecektir.
+---
 
 Bruadaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak isteyip istemediğinizi ve eğer bu yola girerseniz durmadan devam edebileceğinizi veya edemeyeceğinizi anlayacaksınız. 
 
