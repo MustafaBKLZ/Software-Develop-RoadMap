@@ -22,6 +22,7 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
   +  ... [İsimlendirme](https://mustafabukulmez.com/2018/03/18/c-sharp-nesne-isimlendirme-mantigi/ "İsimlendirme")
   +  ... [Modüler Çalışmak](https://mustafabukulmez.com/2018/03/16/c-sharp-moduler-calisma-mantigi/ "Modüler Çalışmak")
   +  ... [Log Tutmak](https://medium.com/@mustafabklmez/yaz%C4%B1l%C4%B1m-sistemlerinde-loglama-kavram%C4%B1-c5166ca676c4 "Log Tutmak") 
+  +  [Şifre Güvenliği Hash ve Tuzlama (Salt) ve Yöntemleri](https://mustafabukulmez.com/2021/12/20/sifre-guvenligi-hash-ve-tuzlama-salt-ve-yontemleri/ "Şifre Güvenliği Hash ve Tuzlama (Salt) ve Yöntemleri") 
 
 + Herşeyi Kullanabilmelisin
   +  [Yüzük Barkod Okuyucu](https://dinamiknetwork.com/yuzuk-barkod-okuyucu-nedir-ne-isimize-yarar-giyilebilir-teknoloji/ "Yüzük Barkod Okuyucu")
