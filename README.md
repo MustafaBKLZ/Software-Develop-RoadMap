@@ -33,7 +33,7 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 
 Bruadaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak isteyip istemediğinizi ve eğer bu yola girerseniz durmadan devam edebileceğinizi veya edemeyeceğinizi anlayacaksınız. 
 
-- ChangeLog
+ChangeLog
 + 18.04.2022 Yeni başlıklar eklendi 
 
 ***Bu içerikler size Nasıl Yazılımcı Olunur?'u değil, yazılım geliştirmenin neler içerdiğini ve içerebileceğini biraz olsun göstermek amacı gütmektedir.***
