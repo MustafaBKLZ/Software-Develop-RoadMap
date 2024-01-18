@@ -33,6 +33,7 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 + Bazı Güzel Tweetler
   + [@ardabalkandev](https://twitter.com/ardabalkandev/status/1747868203315831246)
   + [@BukulmezMustafa](https://twitter.com/BukulmezMustafa/status/1747985039852212554)
+  + [@kticoder](https://twitter.com/kticoder/status/1747935241359045050)
 
 ---
 
