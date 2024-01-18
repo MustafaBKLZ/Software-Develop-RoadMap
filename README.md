@@ -60,7 +60,7 @@ Buradaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak is
   + [Proje Yaşam Çevirimi ve Proje Yönetim Bilgi Alanları](https://mustafabukulmez.com/2021/07/07/proje-yasam-cevirimi-ve-proje-yonetim-bilgi-alanlari/)   
    
 
-+ Bazı Güzel Tweetler
++ Bazı Güzel Twitler
   + [@ardabalkandev](https://twitter.com/ardabalkandev/status/1747868203315831246)
   + [@BukulmezMustafa](https://twitter.com/BukulmezMustafa/status/1747985039852212554)
   + [@kticoder](https://twitter.com/kticoder/status/1747935241359045050)
@@ -72,3 +72,4 @@ ChangeLog
 + 18.04.2022 Yeni başlıklar eklendi
 + 18.01.2024 "Bazı Güzel Tweetler" başlığı eklendi.
 + 18.01.2024 Görsel düzenleme yapıldı
++ 18.01.2024 Yeni Başlıklar, Yeni Yazılar eklendi, Yeni Twitler eklendi.
