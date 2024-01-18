@@ -1,7 +1,11 @@
 # Software Develop RoadMap
 Yazılım geliştirme sektöründe yer aldığım ve geliştirdiğim tüm projeleri düşünüce kendimce çıkardığım **Yazılım Geliştirme Yol Haritasını** sizlerle paylaşmak istedim. İçeriklerin tamamı bana ait olsada farklı platformlarda yer almaktadır. 
 
-Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
+***NOT => Bu içerikler size Nasıl Yazılımcı Olunur?'u değil, yazılım geliştirmenin neler içerdiğini ve içerebileceğini biraz olsun göstermek amacı gütmektedir. Konularda programlama dilleri anılsa da konu dilden bağımsızdır.***
+
+Buradaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak isteyip istemediğinizi ve eğer bu yola girerseniz durmadan devam edebileceğinizi veya edemeyeceğinizi anlayacaksınız. 
+
+---
 
 + Yazılım, Yazılımcı ve Olmak
   + [Yazılıma Başlamak Mı İstiyorsunuz?](https://mustafabukulmez.com/2018/01/20/yazilima-baslamak-mi-istiyorsunuz-gormeniz-lazim/ "Yazılıma Başlamak Mı İstiyorsunuz?")
@@ -29,7 +33,6 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
   +  [Yüzük Barkod Okuyucu](https://dinamiknetwork.com/yuzuk-barkod-okuyucu-nedir-ne-isimize-yarar-giyilebilir-teknoloji/ "Yüzük Barkod Okuyucu")
   +  [Copy Paste?](https://mustafabukulmez.com/2018/03/22/programlamada-kopyala-yapistirin-mantigi/ "Copy Paste?")
 
-
 + Bazı Güzel Tweetler
   + [@ardabalkandev](https://twitter.com/ardabalkandev/status/1747868203315831246)
   + [@BukulmezMustafa](https://twitter.com/BukulmezMustafa/status/1747985039852212554)
@@ -37,11 +40,8 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 
 ---
 
-Bruadaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak isteyip istemediğinizi ve eğer bu yola girerseniz durmadan devam edebileceğinizi veya edemeyeceğinizi anlayacaksınız. 
 
 ChangeLog
 + 18.04.2022 Yeni başlıklar eklendi
 + 18.01.2024 "Bazı Güzel Tweetler" başlığı eklendi.
-
-***Bu içerikler size Nasıl Yazılımcı Olunur?'u değil, yazılım geliştirmenin neler içerdiğini ve içerebileceğini biraz olsun göstermek amacı gütmektedir.***
----
++ 18.01.2024 Görsel düzenleme yapıldı
