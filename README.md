@@ -31,10 +31,17 @@ Konularda programlama dilleri anılsa da konu dilden bağımsızdır.
 
 ---
 
++ Bazı Güzel Tweetler
+  + [@ardabalkandev](https://twitter.com/ardabalkandev/status/1747868203315831246)
+  + [@BukulmezMustafa](https://twitter.com/BukulmezMustafa/status/1747985039852212554)
+
+
+
 Bruadaki tüm içerikleri tükettiğinizde, gerçekten bir yazılımcı olmak isteyip istemediğinizi ve eğer bu yola girerseniz durmadan devam edebileceğinizi veya edemeyeceğinizi anlayacaksınız. 
 
 ChangeLog
-+ 18.04.2022 Yeni başlıklar eklendi 
++ 18.04.2022 Yeni başlıklar eklendi
++ 18.01.2024 "Bazı Güzel Tweetler" başlığı eklendi.
 
 ***Bu içerikler size Nasıl Yazılımcı Olunur?'u değil, yazılım geliştirmenin neler içerdiğini ve içerebileceğini biraz olsun göstermek amacı gütmektedir.***
 ---
